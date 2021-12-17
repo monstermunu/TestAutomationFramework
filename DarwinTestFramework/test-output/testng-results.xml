@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="24" passed="21" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-17T03:52:08 GMT" name="Suite" finished-at="2021-12-17T03:52:30 GMT" duration-ms="22217">
+    <groups>
+    </groups>
+    <test started-at="2021-12-17T03:52:08 GMT" name="Test" finished-at="2021-12-17T03:52:30 GMT" duration-ms="22217">
+      <class name="testCases.CreateUser">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.CreateUser@928763c]" started-at="2021-12-17T03:52:08 GMT" name="setup" finished-at="2021-12-17T03:52:08 GMT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.CreateUser@928763c]" started-at="2021-12-17T03:52:13 GMT" name="createUser" data-provider="CreateUser" finished-at="2021-12-17T03:52:16 GMT" duration-ms="3400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[munu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[munuswamy]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[munus@email.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Florence Court]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[First Floor]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Perth]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[PH1 5BL]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[-37.3159]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[37.3159]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9677708833]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[www.munu.com]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Nothing is impossilbe  ]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Good Luck]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="createUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.CreateUser@928763c]" started-at="2021-12-17T03:52:16 GMT" name="createUser" data-provider="CreateUser" finished-at="2021-12-17T03:52:17 GMT" duration-ms="639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[munuNew]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[munuswamy]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[munus@email.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Florence Court]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[First Floor]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Perth]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[PH1 5BL]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[-37.3159]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[37.3159]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="createUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.CreateUser@928763c]" started-at="2021-12-17T03:52:17 GMT" name="createUser" data-provider="CreateUser" finished-at="2021-12-17T03:52:18 GMT" duration-ms="614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[munuOld]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[munus@email.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Florence Court]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="createUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.CreateUser@928763c]" started-at="2021-12-17T03:52:18 GMT" name="createUser" data-provider="CreateUser" finished-at="2021-12-17T03:52:18 GMT" duration-ms="604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="createUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.CreateUser@928763c]" started-at="2021-12-17T03:52:18 GMT" name="createUser" data-provider="CreateUser" finished-at="2021-12-17T03:52:19 GMT" duration-ms="616" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at testCases.CreateUser.createUser(CreateUser.java:89)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:testCases.CreateUser@928763c]" started-at="2021-12-17T03:52:19 GMT" name="Teardown" finished-at="2021-12-17T03:52:19 GMT" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- testCases.CreateUser -->
+      <class name="testCases.GetAndUpdateUserDetails">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:19 GMT" name="setup" finished-at="2021-12-17T03:52:19 GMT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getUserDetails(java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:20 GMT" name="getUserDetails" data-provider="GetUserDetails" finished-at="2021-12-17T03:52:20 GMT" duration-ms="367" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC006]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="getUserDetails(java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:20 GMT" name="getUserDetails" data-provider="GetUserDetails" finished-at="2021-12-17T03:52:21 GMT" duration-ms="334" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC007]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="getUserDetails(java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:21 GMT" name="getUserDetails" data-provider="GetUserDetails" finished-at="2021-12-17T03:52:21 GMT" duration-ms="311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC008]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="getUserDetails(java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:21 GMT" name="getUserDetails" data-provider="GetUserDetails" finished-at="2021-12-17T03:52:21 GMT" duration-ms="287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC009]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="getUserDetails(java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:21 GMT" name="getUserDetails" data-provider="GetUserDetails" finished-at="2021-12-17T03:52:22 GMT" duration-ms="309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC010]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="getUserDetails(java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:22 GMT" name="getUserDetails" data-provider="GetUserDetails" finished-at="2021-12-17T03:52:22 GMT" duration-ms="283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC011]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="getUserDetails(java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:22 GMT" name="getUserDetails" data-provider="GetUserDetails" finished-at="2021-12-17T03:52:22 GMT" duration-ms="255" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC012]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="getUserDetails(java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:22 GMT" name="getUserDetails" data-provider="GetUserDetails" finished-at="2021-12-17T03:52:22 GMT" duration-ms="267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC013]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="update(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:24 GMT" name="update" data-provider="UpdateUserDetails" finished-at="2021-12-17T03:52:25 GMT" duration-ms="604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC014]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[munu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[munuswamy]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[munus@email.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Florence Court]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[First Floor]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Perth]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[PH1 5BL]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[-37.3159]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[37.3159]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9677708833]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[www.munu.com]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method signature="update(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:25 GMT" name="update" data-provider="UpdateUserDetails" finished-at="2021-12-17T03:52:26 GMT" duration-ms="606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC015]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[swamy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[heyswamy]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[heyswamy@email.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Kings court]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[First Floor]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Perth]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[PH2 6BL]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[-38.3159]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[39.3159]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9677708834]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[www.swamy.com]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method signature="update(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:26 GMT" name="update" data-provider="UpdateUserDetails" finished-at="2021-12-17T03:52:26 GMT" duration-ms="644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC016]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[munuc]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[heymunuc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[heymunu@email.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Queens court]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[First Floor]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Perth]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[PH1 5BL]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[-39.3159]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[41.3159]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9677708835]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[www.heym.com]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method signature="update(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:26 GMT" name="update" data-provider="UpdateUserDetails" finished-at="2021-12-17T03:52:27 GMT" duration-ms="600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[munutest]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[heytest]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[heytest@email.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[James court]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[First Floor]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Perth]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[PH2 6BL]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[-40.3159]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[43.3159]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9677708836]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[www.test.com]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method signature="update(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:27 GMT" name="update" data-provider="UpdateUserDetails" finished-at="2021-12-17T03:52:27 GMT" duration-ms="165" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC018]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[ status code returned expected [200] but found [404]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError:  status code returned expected [200] but found [404]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:907)
+at testCases.GetAndUpdateUserDetails.update(GetAndUpdateUserDetails.java:103)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:testCases.GetAndUpdateUserDetails@57a3e26a]" started-at="2021-12-17T03:52:27 GMT" name="Teardown" finished-at="2021-12-17T03:52:27 GMT" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- testCases.GetAndUpdateUserDetails -->
+      <class name="testCases.SearchUserByEmail">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.SearchUserByEmail@75c56eb9]" started-at="2021-12-17T03:52:27 GMT" name="setup" finished-at="2021-12-17T03:52:27 GMT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchEmail(java.lang.String,java.lang.String)[pri:0, instance:testCases.SearchUserByEmail@75c56eb9]" started-at="2021-12-17T03:52:27 GMT" name="searchEmail" data-provider="SearchUserEmail" finished-at="2021-12-17T03:52:28 GMT" duration-ms="1110" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC019]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[munu@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 
+at org.testng.AssertJUnit.fail(AssertJUnit.java:65)
+at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:23)
+at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:33)
+at testCases.SearchUserByEmail.searchEmail(SearchUserByEmail.java:57)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmail -->
+        <test-method signature="searchEmail(java.lang.String,java.lang.String)[pri:0, instance:testCases.SearchUserByEmail@75c56eb9]" started-at="2021-12-17T03:52:28 GMT" name="searchEmail" data-provider="SearchUserEmail" finished-at="2021-12-17T03:52:29 GMT" duration-ms="312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC020]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rey.Padberg@karina.biz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmail -->
+        <test-method signature="searchEmail(java.lang.String,java.lang.String)[pri:0, instance:testCases.SearchUserByEmail@75c56eb9]" started-at="2021-12-17T03:52:29 GMT" name="searchEmail" data-provider="SearchUserEmail" finished-at="2021-12-17T03:52:29 GMT" duration-ms="253" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC021]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chaim_McDermott@dana.io]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmail -->
+        <test-method signature="searchEmail(java.lang.String,java.lang.String)[pri:0, instance:testCases.SearchUserByEmail@75c56eb9]" started-at="2021-12-17T03:52:29 GMT" name="searchEmail" data-provider="SearchUserEmail" finished-at="2021-12-17T03:52:29 GMT" duration-ms="297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC022]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sherwood@rosamond.me]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmail -->
+        <test-method signature="searchEmail(java.lang.String,java.lang.String)[pri:0, instance:testCases.SearchUserByEmail@75c56eb9]" started-at="2021-12-17T03:52:29 GMT" name="searchEmail" data-provider="SearchUserEmail" finished-at="2021-12-17T03:52:30 GMT" duration-ms="472" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC023]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Telly.Hoeger@billy.biz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmail -->
+        <test-method signature="searchEmail(java.lang.String,java.lang.String)[pri:0, instance:testCases.SearchUserByEmail@75c56eb9]" started-at="2021-12-17T03:52:30 GMT" name="searchEmail" data-provider="SearchUserEmail" finished-at="2021-12-17T03:52:30 GMT" duration-ms="273" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC024]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sincere@april.biz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmail -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:testCases.SearchUserByEmail@75c56eb9]" started-at="2021-12-17T03:52:30 GMT" name="Teardown" finished-at="2021-12-17T03:52:30 GMT" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- testCases.SearchUserByEmail -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
